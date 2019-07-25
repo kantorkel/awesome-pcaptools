@@ -135,6 +135,8 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [Ntopng](http://www.ntop.org/products/ntop/): Ntopng is the next generation version of the original ntop, a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform, MacOSX and on Win32 as well.
 
+* [PacketQ](https://github.com/dotse/PacketQ): A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON, CSV and XML and includes a build-in webserver with JSON-api and a nice looking AJAX GUI.
+
 * [Pcap2har](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
 
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
